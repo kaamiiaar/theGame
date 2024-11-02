@@ -289,3 +289,10 @@ h2 {
 .presentation {
   margin-top: 60px;
 }
+
+.opening-image {
+  max-width: 500px;
+  max-height: 400px;
+  height: auto;
+  margin: 20px 0;
+}
